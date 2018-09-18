@@ -4,4 +4,4 @@ if i<0:
 elif i==0:
 		print(" zero")
 else:
-			print(" positive")# your code goes here
+			print(" Positive")# your code goes here
